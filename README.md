@@ -6,4 +6,10 @@ This repository contains a simple notebook and the data as toy example to unders
 d machine learning to build text-based recommendation
 systems.
 
+## Models/ library
 
+- TF-IDF/ scikit-learn
+- Word2Vec / gensim
+- NN / spaCy
+- BERT / SentenceTransformers
+- BERT / HuggingFace

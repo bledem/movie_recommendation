@@ -6,7 +6,7 @@ This repository contains a simple notebook and the data as toy example to unders
 d machine learning to build text-based recommendation
 systems.
 
-## Models/ library
+## Model/ Library
 
 - TF-IDF/ scikit-learn
 - Word2Vec / gensim

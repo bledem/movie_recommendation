@@ -6,6 +6,8 @@ This repository contains a simple notebook and the data as toy example to unders
 d machine learning to build text-based recommendation
 systems.
 
+Tutorial here: https://towardsdatascience.com/build-a-text-recommendation-system-with-python-e8b95d9f251c
+
 ## Model/ Library
 
 - TF-IDF/ scikit-learn
